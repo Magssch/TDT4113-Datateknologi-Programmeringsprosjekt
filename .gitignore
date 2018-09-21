@@ -1,0 +1,11 @@
+
+*.xml
+*.pyc
+/venv/
+/.idea/
+*.xml
+project 1/.idea/project 1.iml
+.idea/vcs.xml
+project 1/project 1.zip
+*.zip
+.idea/vcs.xml
